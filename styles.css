@@ -1,0 +1,40 @@
+/*Body styling*/
+body {
+    background-color: #DDDFC2;
+}
+
+/*h1 Heading in header*/
+#title {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:2px solid orange;
+}
+
+/*h2 Headings*/
+h2 {
+    color: blue;
+    font-size: 20px;
+
+}
+
+
+/*Contents in the body element*/
+.description {
+    padding:10px 20px;
+    color: #666;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+
+/*Footer styling*/
+#box {
+  width: 200px;
+  padding: 10px;
+  margin: 20px;
+  border: 2px solid black;
+}
+   
